@@ -1,6 +1,6 @@
 {
     "name": "file_level_logger",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "File level log in to system",
     "main": "index.js",
     "scripts": {
@@ -9,12 +9,12 @@
     "author": "idea2code by Hardik",
     "license": "ISC",
     "dependencies": {
+        "express-async-errors": "^3.1.1",
         "winston": "^3.3.3"
     },
     "directories": {
         "lib": "lib"
     },
-    "devDependencies": {},
     "repository": {
         "type": "git",
         "url": "git+https://github.com/mh-i2c/file_level_log.git"
