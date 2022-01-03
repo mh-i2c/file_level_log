@@ -1,6 +1,6 @@
 {
     "name": "file_level_logger",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "File level log in to system",
     "main": "index.js",
     "scripts": {
