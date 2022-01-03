@@ -20,6 +20,9 @@ Using yarn:
 $ yarn add file_level_logger
 ```
 
+## Important Note
+You have to make sure that , you have to use this package before calling and APIs on server.
+
 ## Way of Use
 
 ### note: CommonJS usage
