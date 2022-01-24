@@ -22,6 +22,8 @@ $ yarn add file_level_logger
 
 ## Important Note
 You have to make sure that , you have to use this package before calling and APIs on server.
+And one log file is store only 5MB data after the it create new file with same name and add .1 and so on at the and of file.
+When ever server is going to restart file level logger library create new file.
 
 ## Way of Use
 
